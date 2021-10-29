@@ -1,4 +1,10 @@
-### Hi there 👋
+I am a computational mathematician at Argonne National Laboratory. 
+
+I develop, analyze, and implement numerical optimization methods for in areas of interest for the Department of Energy, including
+
+- Quantum computing
+- Particle accelerator design/optimization
+- Vehicle routing
 
 <!--
 **jmlarson1/jmlarson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
